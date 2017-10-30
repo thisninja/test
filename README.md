@@ -5,4 +5,5 @@ V1.1
 
 adding some changes from another dev to 1.0 tag
 
-// 1.2 changes text
+// latest master feature 1
+// latest master feature 2
